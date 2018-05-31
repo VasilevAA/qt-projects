@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/graph.png</file>
+        <file>icons/main.png</file>
+        <file>help/main.htm</file>
+        <file>icons/help.png</file>
+        <file>help/save_open_menu.htm</file>
+        <file>help/graph_creation.htm</file>
+        <file>help/graph_file.htm</file>
+        <file>help/png_file.htm</file>
+        <file>help/syntax_hints.htm</file>
+        <file>help/txt_file.htm</file>
+        <file>help/format_examp.png</file>
+        <file>help/leti.jpg</file>
+        <file>help/non_format_examp.png</file>
+        <file>help/settings.htm</file>
+        <file>help/settings_examp.png</file>
+        <file>help/syntax_examp.png</file>
+        <file>cars/1.png</file>
+        <file>cars/4.png</file>
+        <file>cars/2.png</file>
+        <file>cars/3.png</file>
+        <file>cars/5.png</file>
+        <file>cars/6.png</file>
+        <file>cars/7.png</file>
+        <file>cars/8.png</file>
+        <file>cars/9.png</file>
+        <file>cars/10.png</file>
+        <file>cars/11.png</file>
+        <file>cars/12.png</file>
+        <file>cars/13.png</file>
+        <file>cars/14.png</file>
+        <file>cars/15.png</file>
+        <file>cars/16.png</file>
+        <file>cars/pron.png</file>
+        <file>cars/17.png</file>
+        <file>help/tok.htm</file>
+        <file>help/tok_examp.png</file>
+        <file>player/forward.png</file>
+        <file>player/pause.png</file>
+        <file>player/play.png</file>
+    </qresource>
+</RCC>
