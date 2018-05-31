@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/graph.png</file>
+        <file>icons/main.png</file>
+        <file>help/main.htm</file>
+        <file>icons/help.png</file>
+        <file>help/save_open_menu.htm</file>
+        <file>help/graph_creation.htm</file>
+        <file>help/graph_file.htm</file>
+        <file>help/png_file.htm</file>
+        <file>help/syntax_hints.htm</file>
+        <file>help/txt_file.htm</file>
+        <file>icons/settings.png</file>
+        <file>toolIcons/delete.png</file>
+        <file>toolIcons/grph.png</file>
+        <file>toolIcons/png.png</file>
+        <file>toolIcons/select.png</file>
+        <file>toolIcons/setting.png</file>
+        <file>toolIcons/txt.png</file>
+        <file>toolIcons/FAQ.png</file>
+        <file>toolIcons/values.png</file>
+        <file>help/format_examp.png</file>
+        <file>help/non_format_examp.png</file>
+        <file>help/settings_examp.png</file>
+        <file>help/syntax_examp.png</file>
+        <file>help/settings.htm</file>
+        <file>help/leti.jpg</file>
+        <file>toolIcons/circle.png</file>
+        <file>toolIcons/rect.png</file>
+        <file>toolIcons/rhomb.png</file>
+    </qresource>
+</RCC>
